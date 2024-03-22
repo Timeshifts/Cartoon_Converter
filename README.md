@@ -25,6 +25,8 @@
  - bad.jpg의 사람과 산이 각각의 예시입니다.
 
 # data/image 출처
+1.jpg - 직접 제작
+<br>
 good.jpg, good_output.jpg - https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EB%88%88-%EC%86%8D%EC%97%90-%EC%9E%88%EB%8A%94-%EB%91%90-%EC%B1%84%EC%9D%98-%EC%A7%91-5bze5kVrfAU
 <br>
 bad.jpg, bad_output.jpg - https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%82%B0-%EA%BC%AD%EB%8C%80%EA%B8%B0%EC%97%90-%EC%84%9C-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-nMzbnMzMjYU
